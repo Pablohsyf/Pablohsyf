@@ -19,11 +19,6 @@ Tenho base acadêmica sólida em algoritmos e estruturas de dados, e venho coloc
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📌 Projetos em destaque
-
-- 🗂️ **[controle-de-estoque](https://github.com/Pablohsyf/controle-de-estoque)** — API de controle de estoque em Python com FastAPI
-- 📝 **Jotion** — API RESTful para aplicativo de notas (estilo Notion) usando Java Spring Boot
-- 🎮 **Jogo 2D em Python** — desenvolvido com a biblioteca Graphics, aplicando algoritmos e estruturas de dados
 
 ## 📫 Contato
 
