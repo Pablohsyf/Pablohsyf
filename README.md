@@ -27,7 +27,7 @@ Tenho base acadêmica sólida em algoritmos e estruturas de dados, e venho coloc
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-farias-60653b438/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pablohsaraivafarias@gmail.com)
-**Pablohsyf/Pablohsyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
